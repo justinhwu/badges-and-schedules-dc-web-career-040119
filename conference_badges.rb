@@ -20,4 +20,5 @@ def assign_rooms(attendees)
   badges.push("Hello, #{attendees[i]}! You'll be assigned to room #{i}!")
   i+=1
 end
+return badges
 end
