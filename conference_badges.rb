@@ -18,5 +18,5 @@ def assign_rooms(attendees)
   rooms = []
   while i < attendees.length
   badges.push("Hello, #{attendees[i]}! You'll be assigned to room #{i}!")
-  
+  i+=1
 end
