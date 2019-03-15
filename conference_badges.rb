@@ -24,12 +24,5 @@ return rooms
 end
 
 def printer(attendees)
-  i = 0
-  badge = []
-  while i <attendees.length
-  badge.push(batch_badge_creator(attendees))
-  puts(badge[i])
-  i+=1
-end
   
 end 
