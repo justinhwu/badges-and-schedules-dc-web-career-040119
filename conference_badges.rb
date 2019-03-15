@@ -7,7 +7,7 @@ def batch_badge_creator(attendees)
   i = 0
   badges = []
   while i < attendees.length 
-    badges.push("Hello, my name is #{attendees[i]}")
+    badges.push("Hello, my name is #{attendees[i]}.")
     i+=1
   end
   badges
