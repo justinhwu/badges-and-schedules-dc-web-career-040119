@@ -5,6 +5,7 @@ end
 
 def batch_badge_creator(attendees)
   i = 0
-  for i < attendees.length, i++ do
+  for i < attendees.length do
+    
     
 end
