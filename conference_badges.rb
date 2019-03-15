@@ -10,5 +10,5 @@ def batch_badge_creator(attendees)
     badges.push("Hello, my name is #{attendees[i]}")
     i++
   end
-  return badges
+  badges
 end
