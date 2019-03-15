@@ -23,7 +23,7 @@ end
 return rooms
 end
 
-def printer()
-  
+def printer
+  puts()
   
 end 
