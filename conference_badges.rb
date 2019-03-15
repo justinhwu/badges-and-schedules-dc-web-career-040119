@@ -24,3 +24,6 @@ return rooms
 end
 
 def printer()
+  
+  
+end 
