@@ -28,7 +28,7 @@ def printer(attendees)
   badge = []
   while i <attendees.length
   badge.push(batch_badge_creator(attendees))
-  puts(badge)
+  puts(badge[i])
   i+=1
 end
   
