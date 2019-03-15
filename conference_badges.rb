@@ -9,5 +9,6 @@ def batch_badge_creator(attendees)
   for i < attendees.length do
     badges.push("Hello, my name is #{attendees[i]}")
     i++
+  end
     
 end
