@@ -24,6 +24,6 @@ return rooms
 end
 
 def printer
-  puts()
+  puts(batch_badge_creator())
   
 end 
