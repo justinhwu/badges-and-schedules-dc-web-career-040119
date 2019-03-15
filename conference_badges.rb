@@ -24,6 +24,6 @@ return rooms
 end
 
 def printer(attendees)
-  
+  i = 0
   
 end 
